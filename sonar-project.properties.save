@@ -1,0 +1,7 @@
+sonar.projectKey=inventory-react
+sonar.projectName=inventory-react App
+sonar.sources=src
+sonar.sourceEncoding=UTF-8
+sonar.host.url=http://localhost:9000
+sonar.login=sqp_626cc4eba58467ff82b2f65997bd576f53b3c80c
+	
